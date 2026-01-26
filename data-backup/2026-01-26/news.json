@@ -1,0 +1,178 @@
+[
+  {
+    "id": "238475984607811584",
+    "type": "news",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1qn6ilm/r_d_machine_dreaming/",
+    "title": "[研究][讨论] 机器做梦",
+    "description": "提出智能KV缓存淘汰机制如同让机器进行“合成做梦”，赋予AI类梦体验。",
+    "published_date": "2026-01-26T04:50:51.192Z",
+    "authors": "",
+    "source": "newest submissions : MachineLearning",
+    "score": 35,
+    "category": "AI模型",
+    "tags": [
+      "KV缓存",
+      "合成做梦",
+      "机器学习",
+      "模型优化",
+      "AI类比"
+    ],
+    "details": {
+      "content_html": "<div><p>So I don't know who else is thinking about stuff like this but....</p> <p>Smart KV Cache Eviction is basically synthetic dreaming. We are giving the robots dreams. 😱</p> <p>If this makes sense to you drop me a dm please. In the most professional way; I need an adult.</p> <p>Thanks for bearing with my dry humor. </p> </div>   submitted by   <a href=\"https://www.reddit.com/user/Interesting-Ad4922\" target=\"_blank\"> /u/Interesting-Ad4922 </a> <br> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qn6ilm/r_d_machine_dreaming/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qn6ilm/r_d_machine_dreaming/\" target=\"_blank\">[comments]</a></span>"
+    }
+  },
+  {
+    "id": "238451997247093760",
+    "type": "news",
+    "url": "https://www.reddit.com/r/artificial/comments/1qn3qk2/chatgpt_is_using_elon_musks_grokipedia_as_a_source/",
+    "title": "ChatGPT正将埃隆·马斯克的Grokipedia作为信息来源",
+    "description": "用户发现ChatGPT在回答问题时引用了埃隆·马斯克旗下平台Grokipedia的内容作为来源。",
+    "published_date": "2026-01-26T02:42:56.830Z",
+    "authors": "",
+    "source": "newest submissions : artificial",
+    "score": 35,
+    "category": "AI资讯",
+    "tags": [
+      "ChatGPT",
+      "Grokipedia",
+      "信息来源",
+      "埃隆·马斯克",
+      "AI可靠性"
+    ],
+    "details": {
+      "content_html": "<table> <tbody><tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1qn3qk2/chatgpt_is_using_elon_musks_grokipedia_as_a_source/\" target=\"_blank\"> <img src=\"https://external-preview.redd.it/sNJkCGQlHpRWAXGzBcWJv1c9aDHGfcgICehaCGdQe0g.jpeg?width=640&#x26;crop=smart&#x26;auto=webp&#x26;s=552bc1a0a8acafc17b7744a3f6c4ffe3a6931f04\" alt=\"ChatGPT Is Using Elon Musk’s Grokipedia as a Source\" title=\"ChatGPT Is Using Elon Musk’s Grokipedia as a Source\"> </a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/i-drake\" target=\"_blank\"> /u/i-drake </a> <br> <span><a href=\"https://techputs.com/chatgpt-pulling-answers-from-grokipedia/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/artificial/comments/1qn3qk2/chatgpt_is_using_elon_musks_grokipedia_as_a_source/\" target=\"_blank\">[comments]</a></span> </td></tr></tbody></table>"
+    }
+  },
+  {
+    "id": "238475984607811585",
+    "type": "news",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1qn34ea/d_how_did_microsofts_tay_work/",
+    "title": "[讨论] 微软的Tay聊天机器人是如何工作的？",
+    "description": "探讨2016年微软Tay聊天机器人的技术原理，对比同期SimSimi，推测其可能基于RNN、LSTM、Word2Vec或强化学习，具备快速适应和生成连贯文本的能力。",
+    "published_date": "2026-01-26T02:15:48.011Z",
+    "authors": "",
+    "source": "newest submissions : MachineLearning",
+    "score": 65,
+    "category": "AI模型",
+    "tags": [
+      "聊天机器人",
+      "循环神经网络",
+      "LSTM",
+      "Word2Vec",
+      "强化学习"
+    ],
+    "details": {
+      "content_html": "<div><p>How did AI like Microsoft's Tay work? This was 2016, before LLMs. No powerful GPUs with HBM and Google's first TPU is cutting edge. Transformers didn't exist. It seems much better than other contemporary chatbots like SimSimi. It adapts to user engagement and user generated text very quickly, adjusting the text it generates which is grammatically coherent and apparently context appropriate and contains information unlike SimSimi. There is zero information on its inner workings. Could it just have been RL on an RNN trained on text and answer pairs? Maybe Markov chains too? How can an AI model like this learn continuously? Could it have used Long short-term memory? I am guessing it used word2vec to capture \"meaning\"</p> </div>   submitted by   <a href=\"https://www.reddit.com/user/RhubarbSimilar1683\" target=\"_blank\"> /u/RhubarbSimilar1683 </a> <br> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qn34ea/d_how_did_microsofts_tay_work/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qn34ea/d_how_did_microsofts_tay_work/\" target=\"_blank\">[comments]</a></span>"
+    }
+  },
+  {
+    "id": "238475984607811586",
+    "type": "news",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1qn2xq6/p_speechlab_a_faulttolerant_distributed_training/",
+    "title": "[项目] SpeechLab：一个基于Ray Train和PyTorch DDP的Whisper容错分布式训练框架（94%扩展效率）",
+    "description": "介绍SpeechLab分布式训练框架，解决ASR模型训练中的数据加载瓶颈和容错问题，采用Ray Train、流式数据管道和实时监控面板，实现94%的扩展效率。",
+    "published_date": "2026-01-26T02:07:28.886Z",
+    "authors": "",
+    "source": "newest submissions : MachineLearning",
+    "score": 78,
+    "category": "AI开发",
+    "tags": [
+      "分布式训练",
+      "自动语音识别(ASR)",
+      "Ray Train",
+      "PyTorch DDP",
+      "容错系统"
+    ],
+    "details": {
+      "content_html": "<div><p>GitHub: <a href=\"https://www.google.com/url?sa=E&#x26;q=https%3A%2F%2Fgithub.com%2FYash3561%2Fspeechlab\" target=\"_blank\">https://github.com/Yash3561/speechlab</a><br> Demo: <a href=\"https://www.google.com/url?sa=E&#x26;q=https%3A%2F%2Fvimeo.com%2F1156797116\" target=\"_blank\">https://vimeo.com/1156797116</a></p> <p><strong>Abstract:</strong><br> Training large ASR models on consumer hardware is painful due to data loading bottlenecks and lack of fault tolerance. I built SpeechLab to bridge the gap between \"script-kiddie\" training loops and production-grade infrastructure.</p> <p><strong>Key Architecture Decisions:</strong></p> <ol> <li><strong>Orchestration:</strong> Used Ray Train instead of raw torch.distributed to handle worker failures programmatically. If a node dies, the Ray Actor pool respawns it from the last checkpoint automatically.</li> <li><strong>Data Streaming:</strong> Implemented a streaming Ray Data pipeline with look-ahead prefetching. This decouples GPU compute from CPU audio preprocessing (Mel-spectrogram extraction), solving the GPU starvation issue common in ASR tasks.</li> <li><strong>Observability:</strong> Built a custom WebSocket-based dashboard (Next.js/FastAPI) to visualize WER/CER in real-time, rather than waiting for TensorBoard logs to sync.</li> </ol> <p><strong>Results:</strong><br> Achieved near-linear scaling (94% efficiency) on a 2-node cluster vs single-node baseline.</p> <p>I’m currently looking for feedback on the sharding strategy for datasets larger than 10TB. If anyone has experience optimizing Ray object store for audio, let me know!</p> </div>   submitted by   <a href=\"https://www.reddit.com/user/New_Care3681\" target=\"_blank\"> /u/New_Care3681 </a> <br> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qn2xq6/p_speechlab_a_faulttolerant_distributed_training/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qn2xq6/p_speechlab_a_faulttolerant_distributed_training/\" target=\"_blank\">[comments]</a></span>"
+    }
+  },
+  {
+    "id": "238451997247093761",
+    "type": "news",
+    "url": "https://www.reddit.com/r/artificial/comments/1qmxxen/replaced_by/",
+    "title": "被取代",
+    "description": "开源项目ReplacedBy追踪被AI、自动化取代的个人故事，关注技术变革中的人文影响，提供数据收集与分享平台。",
+    "published_date": "2026-01-25T22:38:49.430Z",
+    "authors": "",
+    "source": "newest submissions : artificial",
+    "score": 65,
+    "category": "AI产品",
+    "tags": [
+      "AI取代就业",
+      "自动化影响",
+      "开源项目",
+      "人文关怀",
+      "数据收集"
+    ],
+    "details": {
+      "content_html": "<div><p>Hey everyone!</p> <p>I wanted to share a project I've been working on called <a href=\"https://replacedby.net\" target=\"_blank\"><strong>ReplacedBy</strong></a>. It's a simple site with a straightforward goal: to track the stories of people who have been replaced by AI, automation, or robots. The idea isn't to hate on AI (I don't!), but to create a space to talk about the human side of this big technological shift.</p> <p>If you've been impacted, please come share your story. I've kept things simple... There's no user authentication, just some basic rate limiting and cloudflare to prevent spam. All posts are manually approved to keep the content respectful and on-topic. After enough posts are submitted, you will be able to see a very simple post carousel (that will be expanded on in the future).</p> <p>The entire project is open source. You can find the source code on <a href=\"https://github.com/Michaelpalacce/ReplacedBy\" target=\"_blank\">GitHub</a>. I'm not a designer, so a lot of the UI is AI-assisted (I hooked up the components, made them reactive, then AI placed it nicely... even tho honestly it kept messing up, but whatver). You can also find the AI disclosure in the repo's README.</p> <p>There is a bit of data pre-seeded, a sort of best-effort research on my end and based on articles that wre concrete in who and how was impacted. The list is by no means complete, so if you feel strongly about a mass layoff that happened, do open an issue and I will add it.</p> <p>There's a <a href=\"https://github.com/Michaelpalacce/ReplacedBy?tab=readme-ov-file#Roadmap\" target=\"_blank\">roadmap</a> in the repo if you're curious about what's next.</p> <p>I plan to do monthly posts with how the site has grown and the data collected.</p> <p>Let me know what you think!</p> </div>   submitted by   <a href=\"https://www.reddit.com/user/stefantigro\" target=\"_blank\"> /u/stefantigro </a> <br> <span><a href=\"https://www.reddit.com/r/artificial/comments/1qmxxen/replaced_by/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/artificial/comments/1qmxxen/replaced_by/\" target=\"_blank\">[comments]</a></span>"
+    }
+  },
+  {
+    "id": "238368525465589760",
+    "type": "news",
+    "url": "https://www.reddit.com/r/artificial/comments/1qmv61y/latest_chatgpt_model_uses_elon_musks_grokipedia/",
+    "title": "测试显示最新ChatGPT模型使用埃隆·马斯克的Grokipedia作为信息来源",
+    "description": "最新ChatGPT模型被曝使用马斯克的Grokipedia作为数据源，引发关于AI训练数据来源与质量的讨论。",
+    "published_date": "2026-01-25T20:56:48.961Z",
+    "authors": "",
+    "source": "newest submissions : artificial",
+    "score": 65,
+    "category": "AI资讯",
+    "tags": [
+      "ChatGPT",
+      "Grokipedia",
+      "训练数据",
+      "埃隆·马斯克",
+      "AI测试"
+    ],
+    "details": {
+      "content_html": "<table> <tbody><tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1qmv61y/latest_chatgpt_model_uses_elon_musks_grokipedia/\" target=\"_blank\"> <img src=\"https://external-preview.redd.it/FqaSLJRk6gB2Vlpzn4OZC_MTiRgWasRAQqZubTAXH_c.jpeg?width=640&#x26;crop=smart&#x26;auto=webp&#x26;s=e45a97be3c24569a0eb857ee90f42c1724c5458e\" alt=\"Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal\" title=\"Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal\"> </a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/Practical_Chef_7897\" target=\"_blank\"> /u/Practical_Chef_7897 </a> <br> <span><a href=\"https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/artificial/comments/1qmv61y/latest_chatgpt_model_uses_elon_musks_grokipedia/\" target=\"_blank\">[comments]</a></span> </td></tr></tbody></table>"
+    }
+  },
+  {
+    "id": "238368525465589761",
+    "type": "news",
+    "url": "https://www.reddit.com/r/artificial/comments/1qmnumi/case_study_of_luddite_psychology_the_tescreal/",
+    "title": "卢德主义心理案例研究——\"TESCREAL\"思想束",
+    "description": "分析对技术加速主义的批评，探讨将乌托邦式科技愿景视为压迫的回归心态及其成因。",
+    "published_date": "2026-01-25T16:33:28.606Z",
+    "authors": "",
+    "source": "newest submissions : artificial",
+    "score": 42,
+    "category": "AI资讯",
+    "tags": [
+      "TESCREAL",
+      "技术加速主义",
+      "卢德主义",
+      "科技伦理",
+      "社会批判"
+    ],
+    "details": {
+      "content_html": "<div><p><a href=\"https://en.wikipedia.org/wiki/TESCREAL\" target=\"_blank\">See</a> <a href=\"https://firstmonday.org/ojs/index.php/fm/article/view/13636\" target=\"_blank\">here</a>.</p> <p>This strikes me as one of the most absurd examples of left-leaning (?) criticism of healthy accelerationism/progress. The bundle of beliefs and practices they describe is basically the most utopian thing imaginable - using advanced technology to improve health, well-being, scientific understanding, minimizing scarcity, SPAAACE, even reducing natural human viciousness - and yet they find some way to paint it as discriminatory or oppressive.</p> <p>Anyways this post here is just to provide an interesting case study and stimulate discussion about what causes people to end up with these regressive attitudes - it seems like lingering anxiety over eugenics-style practices is the only somewhat reasonable motivation I can fathom.</p> </div>   submitted by   <a href=\"https://www.reddit.com/user/the_quivering_wenis\" target=\"_blank\"> /u/the_quivering_wenis </a> <br> <span><a href=\"https://www.reddit.com/r/artificial/comments/1qmnumi/case_study_of_luddite_psychology_the_tescreal/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/artificial/comments/1qmnumi/case_study_of_luddite_psychology_the_tescreal/\" target=\"_blank\">[comments]</a></span>"
+    }
+  },
+  {
+    "id": "238315674671857664",
+    "type": "news",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1qmnnaa/r_why_do_some_research_papers_not_mention/",
+    "title": "[研究] 为什么有些研究论文不提及准确率作为评估指标？",
+    "description": "讨论眼科基础模型论文为何使用AUC和PRC而非准确率，涉及医学AI评估指标的选择问题。",
+    "published_date": "2026-01-25T16:26:09.579Z",
+    "authors": "",
+    "source": "newest submissions : MachineLearning",
+    "score": 45,
+    "category": "AI资讯",
+    "tags": [
+      "评估指标",
+      "医学AI",
+      "AUC",
+      "准确率",
+      "研究讨论"
+    ],
+    "details": {
+      "content_html": "<div><p>Hi, I am working on foundation models within the space of opthamology and eye diseases. I was reading a paper and to my surprise, the researchers did not list their accuracy scores once throughout the paper, rather mainly the AUC and PRC. I get that accuracy is not a good metric to go off of solely , but why would they not include it?</p> <p>Here is the paper for reference: <a href=\"https://arxiv.org/pdf/2408.05618\" target=\"_blank\">https://arxiv.org/pdf/2408.05618</a></p> </div>   submitted by   <a href=\"https://www.reddit.com/user/Illustrious_Park7068\" target=\"_blank\"> /u/Illustrious_Park7068 </a> <br> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qmnnaa/r_why_do_some_research_papers_not_mention/\" target=\"_blank\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1qmnnaa/r_why_do_some_research_papers_not_mention/\" target=\"_blank\">[comments]</a></span>"
+    }
+  }
+]
