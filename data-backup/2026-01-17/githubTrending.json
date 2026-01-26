@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "type": "githubTrending",
+    "url": "https://github.com/Blaizzy/mlx-audio",
+    "title": "mlx-audio",
+    "description": "一个基于苹果MLX框架构建的文本转语音（TTS）、语音转文本（STT）和语音转语音（STS）库，为Apple Silicon提供高效的语音分析。",
+    "published_date": "2026-01-26",
+    "authors": [
+      "Blaizzy"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "Blaizzy",
+      "name": "mlx-audio",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "totalStars": 4619,
+      "forks": 355,
+      "starsToday": 272,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/30198451?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/30552772?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/167288?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/1069210?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "type": "githubTrending",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "title": "PageIndex",
+    "description": "📑 PageIndex：用于无向量、基于推理的RAG的文档索引",
+    "published_date": "2026-01-26",
+    "authors": [
+      "VectifyAI"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "totalStars": 9320,
+      "forks": 683,
+      "starsToday": 1004,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/13518252?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/71917860?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "type": "githubTrending",
+    "url": "https://github.com/remotion-dev/remotion",
+    "title": "remotion",
+    "description": "🎥 使用React以编程方式制作视频",
+    "published_date": "2026-01-26",
+    "authors": [
+      "remotion-dev"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "totalStars": 31116,
+      "forks": 1874,
+      "starsToday": 1114,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/22192773?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/7582277?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "type": "githubTrending",
+    "url": "https://github.com/qarmin/czkawka",
+    "title": "czkawka",
+    "description": "用于查找重复文件、空文件夹、相似图片等的多功能应用程序",
+    "published_date": "2026-01-26",
+    "authors": [
+      "qarmin"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "qarmin",
+      "name": "czkawka",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "totalStars": 28694,
+      "forks": 943,
+      "starsToday": 65,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/41945903?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/2071331?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/2028476?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/3356767?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/50847364?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "type": "githubTrending",
+    "url": "https://github.com/OpenBMB/UltraRAG",
+    "title": "UltraRAG",
+    "description": "UltraRAG v3：用于构建复杂创新RAG管道的低代码MCP框架",
+    "published_date": "2026-01-26",
+    "authors": [
+      "OpenBMB"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "OpenBMB",
+      "name": "UltraRAG",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "totalStars": 4310,
+      "forks": 300,
+      "starsToday": 437,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/56372416?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/77320781?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/23526166?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/50143482?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/90974567?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "type": "githubTrending",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "title": "VibeVoice",
+    "description": "开源前沿语音人工智能",
+    "published_date": "2026-01-26",
+    "authors": [
+      "microsoft"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "totalStars": 22187,
+      "forks": 2404,
+      "starsToday": 362,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/173002764?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/46838421?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/74597207?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "type": "githubTrending",
+    "url": "https://github.com/openai/codex",
+    "title": "codex",
+    "description": "在终端中运行的轻量级编码代理",
+    "published_date": "2026-01-26",
+    "authors": [
+      "openai"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "openai",
+      "name": "codex",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "totalStars": 57572,
+      "forks": 7452,
+      "starsToday": 170,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/655869?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/219906144?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/204937752?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/172423086?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "type": "githubTrending",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "title": "supermemory",
+    "description": "极其快速、可扩展的记忆引擎和应用程序。AI时代的内存API。",
+    "published_date": "2026-01-26",
+    "authors": [
+      "supermemoryai"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "totalStars": 14833,
+      "forks": 1551,
+      "starsToday": 157,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/63950637?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/38828053?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/93475253?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/129188028?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/65047246?s=40&amp;v=4"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "type": "githubTrending",
+    "url": "https://github.com/Psiphon-Inc/conduit",
+    "title": "conduit",
+    "description": "Conduit客户端",
+    "published_date": "2026-01-26",
+    "authors": [
+      "Psiphon-Inc"
+    ],
+    "source": "GitHub Trending",
+    "details": {
+      "owner": "Psiphon-Inc",
+      "name": "conduit",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "totalStars": 112,
+      "forks": 42,
+      "starsToday": 17,
+      "builtBy": [
+        "https://avatars.githubusercontent.com/u/26747046?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/9257715?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/61702862?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/117767978?s=40&amp;v=4",
+        "https://avatars.githubusercontent.com/u/5760099?s=40&amp;v=4"
+      ]
+    }
+  }
+]
